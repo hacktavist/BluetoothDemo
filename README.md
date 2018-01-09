@@ -11,3 +11,9 @@ It is a very simple app that connects only when it sees the bluetooth board name
 * Add a variable for the name check ( pretty sure it is hardcoded right now)
 * Come up with a better way to connect to the board ( at the moment it takes too much time, around 5 seconds, or at least it feels like it, maybe even longer)
 * I'll think of more things that I don't like and want to fix
+
+# Video of Eyes
+
+Woops, lost the video of the app but this is the test video to make sure the bluetooth serial connection was working. I'll work on getting a new one made, but I will be at the whim of the new owner of the skull (which means it may not happen).  
+
+[![Alt text](https://img.youtube.com/vi/himhceT05YY/0.jpg)](https://www.youtube.com/watch?v=himhceT05YY)
